@@ -5,7 +5,7 @@ apply plugin: 'com.google.gms.oss.licenses.plugin'
 
 android {
     compileSdkVersion 26
-    buildToolsVersion "26.0.1"
+    buildToolsVersion "26.0.2"
     defaultConfig {
         applicationId "com.github.droibit.playservicesosslicenses"
         minSdkVersion 19
